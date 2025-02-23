@@ -1,0 +1,56 @@
+.body{
+    
+    margin: 20px;
+    padding: 20px;
+    background-color:bisque;
+}
+
+.container {
+    max-width: 400px;
+    background: orange;
+    padding: 20px;
+    border-radius: 10px;
+    margin-left: 500px;
+   
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    background: #ddd;
+    margin: 5px 0;
+    padding: 2px;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: bold;
+}
+
+#butt{
+    margin-left: 600px;
+    margin-top: -50px;
+  
+}
+
+#sub{
+    margin-left: 350px;
+    
+}
+
+.nes-field{
+    margin-bottom: 20px;
+    margin-left: 350px;
+    margin-right: 500px;
+}
+
+.messaggio{
+    margin-left: 320px;
+    
+}
